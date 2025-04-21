@@ -1,6 +1,6 @@
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Header GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Header GIF"/>
 </p>
 
 <h1 align="center">Hi, I'm Balaji Bheemavarapu 👋</h1>
