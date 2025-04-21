@@ -38,9 +38,7 @@
 
 > HackerRank-style coding platform with role-based access, real-time code execution, and auto-evaluation.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=APECODE+Demo+Image" width="90%" alt="APECODE"/>
-</p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1581090700227-1e8e20683a3d?auto=format&fit=crop&w=1350&q=80" width="90%" alt="APECODE Preview"/> </p>
 
 🔗 [Live Demo](https://apecode.bbalajis.com) | 🧠 Stack: React.js · Node.js · MongoDB · Express.js · Redux · Tailwind CSS
 
@@ -50,9 +48,7 @@
 
 > Role-based portal for faculty and students with CGPA tracking, Excel upload, and dynamic filtering.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Results+Management+System+UI" width="90%" alt="Results Management System"/>
-</p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1603570419943-0c2e4e8e60b3?auto=format&fit=crop&w=1350&q=80" width="90%" alt="Results Management System Preview"/> </p>
 
 🧠 Stack: React.js · Node.js · MongoDB · Material UI
 
