@@ -1,56 +1,81 @@
-# 👋 Hi, I'm Balaji Bheemavarapu
+<!-- Profile Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Header GIF"/>
+</p>
 
-### 💻 Full Stack Developer | MERN Stack | Systems Engineer @ TCS
+<h1 align="center">Hi, I'm Balaji Bheemavarapu 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Systems Engineer @ TCS</h3>
 
-I'm a passionate Full Stack Developer with 2.5+ years of hands-on experience crafting scalable and user-centric web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Currently, I'm working as a **Systems Engineer** at **Tata Consultancy Services (TCS)** where I build enterprise-grade fintech tools that streamline mortgage product discovery and selection.
-
----
-
-## 🔧 Tech Stack & Tools
-
-**Frontend**  
-React.js · Redux (Thunk) · Tailwind CSS · Material UI · Bootstrap · Context API  
-
-**Backend**  
-Node.js · Express.js · REST APIs · GraphQL · JWT Authentication  
-
-**Database & Cloud**  
-MongoDB · SQL · Firebase Hosting · Azure  
-
-**DevOps & Monitoring**  
-Azure DevOps · Docker (basic) · CI/CD Pipelines · SonarQube · Dynatrace · Tealium  
-
-**Testing**  
-Jest · Postman · Playwright  
-
-**Languages**  
-JavaScript · TypeScript · Python · C · Java (Basics)
+<p align="center">
+  <a href="https://bbalajis.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bbalajis.com-1f425f?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/b-balajis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:balajibheemavarapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
-
-### 🔹 [APECODE](https://apecode.bbalajis.com/)
-A HackerRank-style online coding platform with real-time code execution, auto-grading, and role-based authentication (Admin, Faculty, Student).  
-Built using MERN stack, tested with 60+ students for mock assessments.  
-**Tech:** React.js · Node.js · Express.js · MongoDB · Redux · Tailwind CSS · JWT
-
-### 🔹 Results Management System
-Role-based student-faculty portal with dynamic CGPA calculation, Excel upload, and Excel export functionality.  
-Includes filters by department, batch, and admission type.  
-**Tech:** React.js · Node.js · MongoDB · Material UI
+🎯 I'm a passionate Full Stack Developer with 2.5+ years of experience in crafting scalable, user-focused web applications using the **MERN stack**. Currently working as a **Systems Engineer** at **TCS**, where I build impactful fintech solutions that automate and optimize mortgage processes.
 
 ---
 
-## 🏆 Achievements
+### 🛠️ Tech Stack
 
-- 🥇 Recognized with **Certificate of Excellence** by CIO of LBG for fintech automation
-- 💻 Ranked **Top 217** among 7,000+ in **TCS Top Coders Season 2**
-- 🌍 Secured **Global Rank 3604** in **TCS CodeVita Season 10**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,graphql,redux,tailwind,docker,azure,git,html,css,postman" />
+</p>
 
 ---
 
-## 📜 Certifications
+### 🚀 Featured Projects
+
+#### 🔹 APECODE — Real-Time Online Judge
+
+> HackerRank-style coding platform with role-based access, real-time code execution, and auto-evaluation.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=APECODE+Demo+Image" width="90%" alt="APECODE"/>
+</p>
+
+🔗 [Live Demo](https://apecode.bbalajis.com) | 🧠 Stack: React.js · Node.js · MongoDB · Express.js · Redux · Tailwind CSS
+
+---
+
+#### 🔹 Results Management System
+
+> Role-based portal for faculty and students with CGPA tracking, Excel upload, and dynamic filtering.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Results+Management+System+UI" width="90%" alt="Results Management System"/>
+</p>
+
+🧠 Stack: React.js · Node.js · MongoDB · Material UI
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Certificate of Excellence from CIO, Lloyds Banking Group (LBG)
+- 🏅 Top 217 among 7000+ in **TCS Top Coders S2**
+- 🌍 Global Rank 3604 in **TCS CodeVita S10**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b-balajis&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-balajis&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🎓 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - React – The Complete Guide (Udemy)
@@ -59,7 +84,7 @@ Includes filters by department, batch, and admission type.
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 - 🌐 Portfolio: [bbalajis.com](https://bbalajis.com)
 - 💼 LinkedIn: [linkedin.com/in/b-balajis](https://linkedin.com/in/b-balajis)
@@ -68,4 +93,6 @@ Includes filters by department, batch, and admission type.
 
 ---
 
-### ✨ Always learning. Currently exploring: Docker · Next.js · System Design
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F79C&width=435&lines=Always+learning+%F0%9F%93%9A;Exploring+Docker%2C+Next.js%2C+System+Design+...;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" />
+</p>
